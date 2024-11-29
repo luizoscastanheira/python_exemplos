@@ -13,3 +13,7 @@ def preparar():
     passo += 1
     status = "Preparando..."
     print
+
+print(status)
+preparar()
+entregar()

@@ -4,3 +4,7 @@ class AnimalEstimacao():
         self.especie = especie
         self.dono = dono
 
+class Pessoas():
+    def __init__(self, nome, telefone):
+        self.nome = nome
+        self.telefone = telefone
